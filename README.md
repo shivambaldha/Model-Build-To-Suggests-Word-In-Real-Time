@@ -1,4 +1,5 @@
 # Gmail Smart Compose
+![Image](https://miro.medium.com/v2/resize:fit:720/format:webp/1*rJlRxXhIxniOzmI266rM1A.jpeg)
 ## 1. Introduction
 AS we all know about the E-mail, the E-mail continues to be a ubiquitous and growing form of communication all over the world, with an estimated 3.8 billion users sending 281 billion e-mails daily.
 
@@ -8,6 +9,9 @@ All you have experienced the Gmail smart compose, maybe even without knowing you
 So here is the task we have to make a model, which can predict the sentences or words based on the given sentence or some words. the input is a sequence of words and the output is also a sequence of words, so we have to build the sequence-based model.
 
 To generate the next word or next word prediction is also called a language modeling task.
+
+# Demonstration
+[![Watch the video](https://img.youtube.com/vi/vgs3ufXGDm4/hqdefault.jpg)](https://www.youtube.com/watch?v=vgs3ufXGDm4)
 
 # Detailed Explanation
 https://shivambaldha.medium.com/gmail-smart-compose-ad4c0f311d5b
